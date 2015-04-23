@@ -2,9 +2,9 @@
 Test Google Maps V2
 
 
-NE PAS OUBLIER DE modifier le Ffichier AndroidManifest.xml avec la clé de sont compte Google Cloud Plateforme
+Modifier le fichier AndroidManifest.xml avec la clé de sont compte Google Cloud Plateforme
 
-Voir API Console ---> API services
+Key obtenue à partir de :  Google APIs Console 
 
 <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
