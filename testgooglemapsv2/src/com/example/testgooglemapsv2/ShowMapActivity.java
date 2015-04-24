@@ -13,6 +13,8 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class ShowMapActivity extends Activity {
+	
+	
   static final LatLng PARIS = new LatLng(48.8566140, 2.3522219);
   static final LatLng MARSEILLE = new LatLng(43.2964820, 5.3697800);
   private GoogleMap map;
